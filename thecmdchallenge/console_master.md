@@ -7,4 +7,4 @@
 [mv, cp] Create a copy of the last file you can vinde below the /boringfolder/ childs (the-mostboding-text.txt)
 [rmdir] remove the "remove-me" folder from the funcode directory 
 [cd, cat] print in the screen the-ultimate-joke.txt
-[rm] remove all the contents form the boringfolder, the are extremly boring.
+[rm] remove all the contents form the boringfolder, the are extremly boring..
